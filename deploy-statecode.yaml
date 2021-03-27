@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  creationTimestamp: null
+  creationTimestamp: 2021-03-27T19:46:46Z
   labels:
     app: userapi
   name: userapi
@@ -13,7 +13,7 @@ spec:
   strategy: {}
   template:
     metadata:
-      creationTimestamp: null
+      creationTimestamp: 2021-03-27T19:46:46Z
       labels:
         app: userapi
     spec:
